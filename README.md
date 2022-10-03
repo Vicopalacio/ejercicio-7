@@ -19,4 +19,4 @@ Una vez clonado el repositorio ejecutar los siguientes comanados.
 1. Boostrap v5.2
 
 ## Autor
-Daoua, Josefina.
+Palacio Fernández Victoria
